@@ -30,7 +30,7 @@
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mssql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,sqlserver,postgres" />
 </p>
 
 
