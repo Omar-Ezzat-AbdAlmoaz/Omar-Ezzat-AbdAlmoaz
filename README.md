@@ -30,8 +30,9 @@
 
 ### **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mssql,postgres" />
 </p>
+
 
 ### **Tools**
 <p>
