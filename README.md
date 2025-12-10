@@ -1,10 +1,6 @@
 # 🌟 Hi, I’m **Amr Ezzat**
 ### 💻 Full Stack Developer | UI Engineer | Computer Science Graduate
 
-<div align="center">
-  <img src="./assets/Banner4.png" width="100%" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -29,8 +25,7 @@
 
 ### **AI / ML & Computer Vision**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img height="48" src="./assets/opencv.png" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 </p>
 
 ### **Databases**
