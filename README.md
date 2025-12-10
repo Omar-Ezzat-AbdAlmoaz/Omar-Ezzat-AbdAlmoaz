@@ -2,7 +2,7 @@
 ### 💻 Full Stack Developer | UI Engineer | Computer Science Graduate
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/Banner4.png" width="100%" />
+  <img src="./assets/Banner4.png" width="100%" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 ### **AI / ML & Computer Vision**
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img height="48" src="https://img.icons8.com/color/480/opencv.png" />
+  <img height="48" src="./assets/opencv.png" />
 </p>
 
 ### **Databases**
@@ -80,4 +80,3 @@
 
 ## ⚡ Fun Quote
 > "Code as if the person who ends up maintaining it will be you."
-
