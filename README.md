@@ -1,16 +1,83 @@
-## Hi there 👋
+# 🌟 Hi, I’m **Amr Ezzat**
+### 💻 Full Stack Developer | UI Engineer | Computer Science Graduate
 
-<!--
-**Omar-Ezzat-AbdAlmoaz/Omar-Ezzat-AbdAlmoaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/Banner4.png" width="100%" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💡 Full Stack Developer specialized in responsive UI + scalable backend systems  
+- ⚡ Strong problem-solving background & competitive programming  
+- 🔥 Passionate about clean code, architecture, and real-world software  
+- 📚 Always learning and improving  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django" />
+</p>
+
+### **AI / ML & Computer Vision**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img height="48" src="https://img.icons8.com/color/480/opencv.png" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" 
+     src="https://github-readme-stats.vercel.app/api?username=Omar-Ezzat-AbdAlmoaz&show_icons=true&theme=tokyonight" />
+
+<img height="170" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ezzat-AbdAlmoaz&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+- ✔ Full-Stack Development (ASP.NET Core / Django)  
+- ✔ UI/UX & responsive design  
+- ✔ Algorithms & clean architecture  
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/amr-ezzat-6b1940308">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/Omar-Ezzat-AbdAlmoaz">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Quote
+> "Code as if the person who ends up maintaining it will be you."
+
